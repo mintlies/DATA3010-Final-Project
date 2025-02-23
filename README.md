@@ -1,2 +1,4 @@
-# DATA3010-Final-Project
-The final project of my third year Data Science course. This is a case study on predicting a student's academic success or failure.
+# Predicting a Student's Academic Success or Dropout
+## Roselle Deinla & Andrea Nguyen
+
+This is a case study on building a model to predict whether a student who is currently enrolled at a post-secondary institution will graduate or decide to dropout.
